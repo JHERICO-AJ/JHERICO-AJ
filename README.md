@@ -17,6 +17,9 @@ Systems Engineer focused on **Software Quality Assurance and Full Stack Developm
 
 I combine development knowledge with QA methodologies to build reliable, scalable, and high-quality software solutions.
 
+## 🌎 Languages
+- 🇪🇸 Spanish: Native  
+- 🇺🇸 English: Intermediate (Oral, Written & Reading)
 ### 🔎 Professional Focus
 
 - Manual & Functional Testing  
